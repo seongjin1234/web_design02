@@ -1,0 +1,217 @@
+body{
+    font-family: "맑은고딕", "고딕", "굴림";
+}
+
+header{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #525763;
+    padding: 10px;
+    overflow: hidden;
+    
+}
+
+header h1{
+    width: 40%;
+    float: left;
+    color: #fff;
+
+    
+}
+
+header nav{
+    width: 60%;
+    float: left;
+    margin: auto;
+    
+}
+
+nav ul{
+    list-style-type: none;
+    
+}
+
+nav ul li{
+    display: inline;
+    float: right;
+    margin: 20px
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+p{
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+   
+section{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid #525763;
+    padding: 5px;
+    
+}   
+
+footer{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding-top: 0;
+    padding: 10px;
+    background-color: #a8a8a8;
+    color: white;
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+@font-face{
+    font-family: a프로젝트;
+    src:url('A프로젝트.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: 1훈화양연화;
+    src:url('HOONWHAYANGYUNWHA.ttf');
+    font-weight: bold;
+}
+
+@font-face{
+    font-family: 배달의민족 도현;
+    src:url('BMDOHYEON_TTF.ttf');
+    font-weight: bolder;
+}
+
+
+header{
+    font-family: 1훈화양연화;;
+}
+
+body{
+    font-family: a프로젝트;
+}
+
+.medium{
+    font-size: medium;
+    text-align: left;
+    text-decoration: underline;
+    word-spacing: 0.6em;
+}
+
+.small{
+    font-size: small;
+    font-style: italic;
+    text-align: right;
+    text-decoration: overline;
+}
+
+.large{
+    font-family: 1훈화양연화;
+    font-size: large;
+    text-align: center;
+    text-decoration: line-through;
+    letter-spacing: 0.3em;
+}
+
+.xx-large{
+    font-family: a프로젝트;
+    font-size: xx-large;
+    text-align: justify;
+    text-decoration: underline overline;
+    line-height: 150%;
+    
+}
+
+h1{
+    font-variant: small-caps;
+    
+}
+
+.shadow1{
+    text-shadow: 1px 1px 5px #000;
+
+}
+.shadow2{
+    text-shadow: 5px -5px 2px #222, 10px -10px 10px #999;
+}
+
+.shadow3{
+    text-shadow: 0px 0px 4px #ccc, 0px -5px 4px #ff3, 2px 6px #fd3, -2px -15px 11px #f80, 2px -19px 18px #f20;
+}
+
+table{
+    width: 400px;
+    border:  3px solid #525763;
+    margin: auto;
+}
+td{
+    border: 1px solid #525763;
+    padding: 10px;
+}
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+  
