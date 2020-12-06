@@ -14,7 +14,7 @@ header{
 
 header h1{
     width: 40%;
-    float: left;
+    float: center; 
     color: #fff;
 
     
@@ -22,7 +22,7 @@ header h1{
 
 header nav{
     width: 60%;
-    float: left;
+    float: right;
     margin: auto;
     
 }
